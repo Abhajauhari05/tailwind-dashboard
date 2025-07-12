@@ -1,4 +1,4 @@
-# 📊 Admin Dashboard UI — React + Tailwind
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3a564308-b6ba-44b9-8ffd-6d160695a1ac" /># 📊 Admin Dashboard UI — React + Tailwind
 
 A modern, responsive, and data-driven Admin Dashboard UI built with **React**, **Tailwind CSS**, and **Chart.js**. This project visualizes user metrics, revenue data, and product performance in a clean and minimal layout. Ideal for SaaS platforms, internal admin tools, and analytics panels.
 
@@ -83,5 +83,5 @@ Internal Company Data Viewer
 
 
 🙋‍♂️ Author
-Your Name
+-[@Abhajauhari05](https://github.com/Abhajauhari05)
 Full Stack Developer
